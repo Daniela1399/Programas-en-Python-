@@ -1,0 +1,17 @@
+print("DIRECTORIO PERSONAL")
+
+Nombre = input("Dame tu nombre: ")
+Edad = input("Dame tu edad: ")
+FN = input("Dame tu fecha de nacimiento: ")
+Calle = input("Ingresa tu calle: ")
+NumExt = input("Numero de la casa: ")
+Colonia = input("Ingresa la colonia: ")
+Ciudad = input("Ingresa la ciudad: ")
+CP = input("Ingresa el codigo postal: ")
+Tel = input("Ingresa un numero de telefono: ")
+
+print("")
+print(Nombre+ "" + Edad+ "" + FN)
+print(Ciudad + "" + CP)
+print(Calle + "" + Colonia + "" + NumExt)
+print(Tel)
